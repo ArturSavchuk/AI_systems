@@ -1,0 +1,6 @@
+L:\AI\A-star\bin\Debug\A-star.exe.config
+L:\AI\A-star\bin\Debug\A-star.exe
+L:\AI\A-star\bin\Debug\A-star.pdb
+L:\AI\A-star\obj\Debug\A-star.csprojAssemblyReference.cache
+L:\AI\A-star\obj\Debug\A-star.exe
+L:\AI\A-star\obj\Debug\A-star.pdb
